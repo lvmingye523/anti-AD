@@ -3,7 +3,7 @@
 #URL=https://github.com/privacy-protection-tools/anti-AD
 #TOTAL_LINES=60832
 
-#DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
+DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .000dn.com
 .0013.cc
 .001adafg.xyz
